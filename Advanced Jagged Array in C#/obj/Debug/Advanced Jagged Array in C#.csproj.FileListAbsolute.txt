@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\bin\Debug\Advanced Jagged Array in C#.exe.config
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\bin\Debug\Advanced Jagged Array in C#.exe
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\bin\Debug\Advanced Jagged Array in C#.pdb
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\obj\Debug\Advanced Jagged Array in C#.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\obj\Debug\Advanced Jagged Array in C#.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\obj\Debug\Advanced Jagged Array in C#.exe
+C:\mphasis-B2\Day-5\ASSIGNMENT(day-5)\Accessment-part-1\Advanced Jagged Array in C#\Advanced Jagged Array in C#\obj\Debug\Advanced Jagged Array in C#.pdb
